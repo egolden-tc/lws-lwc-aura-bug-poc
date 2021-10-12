@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@locker/eslint-config-locker": "^0.14.7",
+    "eslint": "^8.0.0"
+  }
+}

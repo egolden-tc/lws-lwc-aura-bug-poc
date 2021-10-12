@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+  <span>Static Content</span>
+  {!v.body}
+</aura:component>
